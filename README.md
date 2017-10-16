@@ -23,7 +23,7 @@ campus già offriva.Su questo repository **ognuno dei suoi componenti**
 
 all'ambiente di studio o alle consegne in corso. 
 
-### Regole
+### REGOLE
 
 Le regole per l'upload delle consegne sono uguali al campus ossia
 
