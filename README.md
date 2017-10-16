@@ -11,11 +11,9 @@ volta fatto **continue** immettete la vostra email normale e la
 
 password che volete usare
 
-#SCOPO
+##SCOPO
 
-Lo scopo di questo repository **è** sostanzialmente 
-
-quello di migliorare
+Lo scopo di questo repository **è** sostanzialmente quello di migliorare
 
 **la collaborazione fra studenti e insegnanti** migliorando ciò che 
 
@@ -25,7 +23,7 @@ campus già offriva.Su questo repository **ognuno dei suoi componenti**
 
 all'ambiente di studio o alle consegne in corso. 
 
-#Regole
+##Regole
 
 Le regole per l'upload delle consegne sono uguali al campus ossia
 
@@ -35,4 +33,4 @@ Ogni consegna avrà una cartella apposita nella quale saranno caricati
 
 tutti i lavori per evitare conflitti con successive consegne. 
 
-#CREDITS:Andrea Meante
+##CREDITS:Andrea Meante
