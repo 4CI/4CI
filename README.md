@@ -13,7 +13,7 @@ password che volete usare
 
 ### SCOPO
 
-Lo scopo di questo repository **è** sostanzialmente quello di migliorare
+Lo scopo di questo repository **è** sostanzialmente quello di **migliorare**
 
 **la collaborazione fra studenti e insegnanti** migliorando ciò che 
 
