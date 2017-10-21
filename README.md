@@ -1,15 +1,15 @@
 ## 4CI
 -Repository della 4CI A.S. 2017-2018 since 2017-10-16
 
-### ISTRUZIONI PER SLACK
+### REGOLE SLACK
 
-Una volta scaricato,Slack richiederà il nome del gruppo alla
+Nel gruppo **#general** vanno condivise **solo** i quesiti o le richieste
 
-quale si vuole accedere (in questo caso **ccourse2016**),una
+al riguardo dei progetti in corso **opportunamente commentati e specificati**.
 
-volta fatto **continue** immettete la vostra email normale e la
+Nel gruppo **#random** si possono postare messaggi non formali **ma con sempre**
 
-password che volete usare
+**un minimo riguardo alla correttezza espressiva.**
 
 ### SCOPO
 
